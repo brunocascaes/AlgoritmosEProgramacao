@@ -16,7 +16,7 @@ int main(){
 		}
 	}
 				
-	printf("Maior valor e respectiva posição: %d %d", valor, indice);
+	printf("Maior valor e respectiva posiÃ§Ã£o: %d %d", valor, indice);
 		
 	return 0;
 }
